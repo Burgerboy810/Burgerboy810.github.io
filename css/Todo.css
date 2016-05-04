@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: 'Poiret One';
+}
+main {
+    flex: 1 0 auto;
+}
+
+/*Blog Pso*/
+
+.blog-post {
+    margin-bottom: 60px;
+}
+
+.blog-post-title {
+    margin-bottom: 5px;
+    font-size: 40px;
+    color: #000000;
+}
+
+.blog-post-meta {
+    margin-bottom: 20px;
+    color: #000000;
+    font-style: normal;
+}
